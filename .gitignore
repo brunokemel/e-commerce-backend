@@ -17,3 +17,9 @@ cli-latest
 .env.local
 .env.*.local 
 
+
+# Ignorar arquivos de build
+dist/
+
+# Ignorar configurações locais do VS Code
+.vscode/
